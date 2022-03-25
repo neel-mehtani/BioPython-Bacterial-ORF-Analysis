@@ -1,0 +1,4 @@
+BLAST Query #4 Results -- Sequence Example
+----------------------------------------
+
+NULL RESULT -- No hits returned!!NULL RESULT -- No hits returned!!NULL RESULT -- No hits returned!!

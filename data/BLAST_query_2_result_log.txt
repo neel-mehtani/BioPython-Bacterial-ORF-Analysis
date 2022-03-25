@@ -1,0 +1,12 @@
+BLAST Query #2 Results -- Sequence Example
+----------------------------------------
+
+sequence: gb|PWV43932.1| hypothetical protein DF280_01360 ['Brassica napus' phytoplasma] 
+length: 61 
+E Value: 1.09076e-31 
+LLCGLFFLLIIINFLIYQFH ...  
++LCGLFFLLIIINFLIYQFH ...  
+MLCGLFFLLIIINFLIYQFH ...  
+
+
+NULL RESULT -- No hits returned!!

@@ -1,0 +1,1441 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_45395</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>237</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_45395</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>237</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gb|PWV43855.1|</Hit_id>
+  <Hit_def>hypothetical protein DF280_00595 [&apos;Brassica napus&apos; phytoplasma]</Hit_def>
+  <Hit_accession>PWV43855</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>464.922</Hsp_bit-score>
+      <Hsp_score>1195</Hsp_score>
+      <Hsp_evalue>5.84417e-165</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|QKX95442.1|</Hit_id>
+  <Hit_def>hypothetical protein RP166_4580 [Rapeseed phyllody phytoplasma]</Hit_def>
+  <Hit_accession>QKX95442</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>460.685</Hsp_bit-score>
+      <Hsp_score>1184</Hsp_score>
+      <Hsp_evalue>2.60231e-163</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>226</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDSSKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNED+ KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>dbj|BAD04354.1|</Hit_id>
+  <Hit_def>hypothetical protein PAM_269 [Onion yellows phytoplasma OY-M]</Hit_def>
+  <Hit_accession>BAD04354</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>457.603</Hsp_bit-score>
+      <Hsp_score>1176</Hsp_score>
+      <Hsp_evalue>4.65796e-162</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>226</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSSFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTPKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISS FSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDT KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_130427712.1|</Hit_id>
+  <Hit_def>hypothetical protein [&apos;Catharanthus roseus&apos; aster yellows phytoplasma] &gt;gb|QBF23888.1| hypothetical protein EXT02_01630 [&apos;Catharanthus roseus&apos; aster yellows phytoplasma]</Hit_def>
+  <Hit_accession>WP_130427712</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>457.218</Hsp_bit-score>
+      <Hsp_score>1175</Hsp_score>
+      <Hsp_evalue>6.99008e-162</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>225</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDNPKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNED  KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|TKA87522.1|</Hit_id>
+  <Hit_def>hypothetical protein PLY_6600 [Periwinkle leaf yellowing phytoplasma]</Hit_def>
+  <Hit_accession>TKA87522</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>456.062</Hsp_bit-score>
+      <Hsp_score>1172</Hsp_score>
+      <Hsp_evalue>2.46829e-161</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>224</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKLEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDNPKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETK+EFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNED  KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|MBT1576579.1|</Hit_id>
+  <Hit_def>hypothetical protein [&apos;Elaeagnus angustifolia&apos; witches&apos;-broom phytoplasma]</Hit_def>
+  <Hit_accession>MBT1576579</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>455.677</Hsp_bit-score>
+      <Hsp_score>1171</Hsp_score>
+      <Hsp_evalue>3.07386e-161</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>224</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVLLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTPPNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFV+LISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDT  NKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_069028244.1|</Hit_id>
+  <Hit_def>hypothetical protein [Maize bushy stunt phytoplasma] &gt;gb|AOF54823.1| hypothetical protein MBSPM3_v1c3120 [Maize bushy stunt phytoplasma]</Hit_def>
+  <Hit_accession>WP_069028244</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>454.136</Hsp_bit-score>
+      <Hsp_score>1167</Hsp_score>
+      <Hsp_evalue>1.4279e-160</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>224</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNTNEDNPKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQN NED  KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_071345562.1|</Hit_id>
+  <Hit_def>hypothetical protein [Rice orange leaf phytoplasma] &gt;gb|OIJ44884.1| hypothetical protein BHE82_01845 [Rice orange leaf phytoplasma]</Hit_def>
+  <Hit_accession>WP_071345562</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>453.751</Hsp_bit-score>
+      <Hsp_score>1166</Hsp_score>
+      <Hsp_evalue>2.16643e-160</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>224</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKEKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDNPKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLK KETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNED  KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_212775418.1|</Hit_id>
+  <Hit_def>hypothetical protein [Hydrangea phyllody phytoplasma] &gt;dbj|GFZ75254.1| hypothetical protein HPP_2120 [Hydrangea phyllody phytoplasma]</Hit_def>
+  <Hit_accession>WP_212775418</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>452.595</Hsp_bit-score>
+      <Hsp_score>1163</Hsp_score>
+      <Hsp_evalue>4.72074e-160</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFFEPKSDQNPNEDNPKNKDNTIDETN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTF EPKSDQNPNED  KNKDNTIDE N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_212509020.1|</Hit_id>
+  <Hit_def>hypothetical protein [&apos;Santalum album&apos; aster yellows phytoplasma] &gt;gb|MBS2993933.1| hypothetical protein [&apos;Santalum album&apos; aster yellows phytoplasma]</Hit_def>
+  <Hit_accession>WP_212509020</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>450.669</Hsp_bit-score>
+      <Hsp_score>1158</Hsp_score>
+      <Hsp_evalue>3.29066e-159</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNVSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFFEPKSDQNPNEDNPKNKDNTIDETN</Hsp_hseq>
+      <Hsp_midline>MN SFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTF EPKSDQNPNED  KNKDNTIDE N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|WP_227806949.1|</Hit_id>
+  <Hit_def>hypothetical protein [Mulberry dwarf phytoplasma]</Hit_def>
+  <Hit_accession>WP_227806949</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>449.899</Hsp_bit-score>
+      <Hsp_score>1156</Hsp_score>
+      <Hsp_evalue>7.24946e-159</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQISQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFFEPKSDQNPNEDNPKNKDNTIDETN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQI QKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTF EPKSDQNPNED  KNKDNTIDE N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|WP_219474995.1|</Hit_id>
+  <Hit_def>hypothetical protein [Paulownia witches&apos;-broom phytoplasma] &gt;gb|QYC31079.1| hypothetical protein HGD80_00370 [Paulownia witches&apos;-broom phytoplasma]</Hit_def>
+  <Hit_accession>WP_219474995</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>439.113</Hsp_bit-score>
+      <Hsp_score>1128</Hsp_score>
+      <Hsp_evalue>1.12739e-154</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>216</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLKGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLYFIWQIFQKEATLIKKIKLLFMEVLVPILLNSFFLSGQFSVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIKEKLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTPKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSL+GEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWL FIWQIFQKEATLIK IK LF+ VLVPILLN+F LSGQ SVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKI+E LGIELYESLKEKQKQFNPTFVEPKSDQNPNEDT KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|WP_029783892.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma tritici]</Hit_def>
+  <Hit_accession>WP_029783892</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>416.001</Hsp_bit-score>
+      <Hsp_score>1068</Hsp_score>
+      <Hsp_evalue>1.28258e-145</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFKKEKDFKLLTNIYNSLQEEPFLTQKTKLRGKEIKVEFYYLNQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLNGHFSGWVRIPAFVLLISSCFSMNYWMKNQQQKLHIFRDQKLQETLEKIKQTLGTELYESLKQKQKQFNPTFVEPKSDQKPNEDNPENKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>MNFSFF+KEK+FKLLTNIYNSLQ EPFLTQ+T L+GKE KVEFYYL+QSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLL+G  S W+RIPAFV+LISSCFSMNYWMKNQQ+KLHIFRD+KLQETL+KI++TLG ELYESLK+KQKQFNPTFVEPKSDQ PNED  +NKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|WP_011412733.1|</Hit_id>
+  <Hit_def>hypothetical protein [Aster yellows witches&apos;-broom phytoplasma] &gt;gb|ABC65569.1| conserved hypothetical protein [Aster yellows witches&apos;-broom phytoplasma AYWB]</Hit_def>
+  <Hit_accession>WP_011412733</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>409.068</Hsp_bit-score>
+      <Hsp_score>1050</Hsp_score>
+      <Hsp_evalue>9.84684e-143</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKDFKLLTNIYNSLQGKPFLNQETTLRGKEIKVEFYYLDQSKYYSTLFQSRQFAVWTVDKGVCRLLVERKYYKKFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLLPILLNVFLLNGHFSGWVRVPAFFVLISSCFSMNYWMKKQQKKLHIFRDQKLQETLEKIKQKLGKELYESLKEKQKQFNPTFVEPKSDQNPNEDNTGSKDNTIDKIN</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEK+FKLLTNIYNSLQG+PFL QETTL+GKE KVEFYYLDQSKYYSTLFQSRQFAVWT DKGVCRLLVE+KYY++FGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVL+PILLN FLL+G  S W+R+PAF VLISSCFSMNYWMK QQKKLHIFRD+KLQETL+KI++ LG ELYESLKEKQKQFNPTFVEPKSDQNPNED   +KDNTID+IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>dbj|BAF73491.1|</Hit_id>
+  <Hit_def>hypothetical protein [Onion yellows phytoplasma OY-W]</Hit_def>
+  <Hit_accession>BAF73491</Hit_accession>
+  <Hit_len>186</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>368.237</Hsp_bit-score>
+      <Hsp_score>944</Hsp_score>
+      <Hsp_evalue>2.81275e-127</Hsp_evalue>
+      <Hsp_query-from>55</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>183</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>180</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>183</Hsp_align-len>
+      <Hsp_qseq>LDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDNPKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>+DQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNED  KNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>dbj|GAK73712.1|</Hit_id>
+  <Hit_def>asparagine synthase, partial [&apos;Chrysanthemum coronarium&apos; phytoplasma]</Hit_def>
+  <Hit_accession>GAK73712</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>299.671</Hsp_bit-score>
+      <Hsp_score>766</Hsp_score>
+      <Hsp_evalue>8.4801e-101</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>158</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>147</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>149</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLIS</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKLEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKLLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLIS</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETK+EFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK LFVAVLVPILLNAFLLSGQISVWLRIPAFVVLIS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|WP_238568813.1|</Hit_id>
+  <Hit_def>hypothetical protein [Chrysanthemum yellows phytoplasma]</Hit_def>
+  <Hit_accession>WP_238568813</Hit_accession>
+  <Hit_len>111</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>228.024</Hsp_bit-score>
+      <Hsp_score>580</Hsp_score>
+      <Hsp_evalue>5.17471e-73</Hsp_evalue>
+      <Hsp_query-from>127</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>111</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>110</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>111</Hsp_align-len>
+      <Hsp_qseq>VAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_qseq>
+      <Hsp_hseq>MAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_hseq>
+      <Hsp_midline>+AVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|WP_238568814.1|</Hit_id>
+  <Hit_def>hypothetical protein [Chrysanthemum yellows phytoplasma]</Hit_def>
+  <Hit_accession>WP_238568814</Hit_accession>
+  <Hit_len>100</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>207.994</Hsp_bit-score>
+      <Hsp_score>528</Hsp_score>
+      <Hsp_evalue>3.17375e-65</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>109</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>100</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIW</Hsp_qseq>
+      <Hsp_hseq>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIW</Hsp_hseq>
+      <Hsp_midline>MNFSFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|WP_023161597.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma solani] &gt;gb|RMI89158.1| hypothetical protein PSSA1_v1c0380 [Candidatus Phytoplasma solani] &gt;emb|CCP88412.1| conserved hypothetical protein [Candidatus Phytoplasma solani]</Hit_def>
+  <Hit_accession>WP_023161597</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>209.534</Hsp_bit-score>
+      <Hsp_score>532</Hsp_score>
+      <Hsp_evalue>3.71192e-64</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MNFSFF--QKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLL----------SGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPN</Hsp_qseq>
+      <Hsp_hseq>MNWSSFFPKKTKQMQLLTNFYHSLQGEPFLIEEILLNETPVKIEFYYLEQSKYYNALFQTRQFVVWTADKGTYRLLIDKDYYNNFKPLYRKEINTAWLEFMIQVYQKEANLINRIKLAFLGFFIPILLVIFLTLTMWSPGTKEEGQKTLIFGIP-LVILLIVIFVINYWIKIQQKKMAFFKDQTLQKTLTKIKQILGEEFFAELLEKQKNYNPFFAKSKNEQDNN</Hsp_hseq>
+      <Hsp_midline>MN+S F  +K K+ +LLTN Y+SLQGEPFL +E  L     K+EFYYL+QSKYY+ LFQ+RQF VWTADKG  RLL++K YY  F   Y+K+IN  WL+F+ Q++QKEA LI  IK  F+   +PILL  FL            GQ ++   IP  V+L+   F +NYW+K QQKK+  F+D+ LQ+TL KI++ LG E +  L EKQK +NP F + K++Q+ N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|WP_203552280.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma meliae] &gt;gb|MBP5836016.1| hypothetical protein [Candidatus Phytoplasma meliae]</Hit_def>
+  <Hit_accession>WP_203552280</Hit_accession>
+  <Hit_len>219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>205.297</Hsp_bit-score>
+      <Hsp_score>521</Hsp_score>
+      <Hsp_evalue>1.65513e-62</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>219</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>157</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>220</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQK--EKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQIS--VWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPT---FVEPKSDQNPN</Hsp_qseq>
+      <Hsp_hseq>MNWLFFKQNEKKQLKLLTNFHHSLQGKPFLIEETTLKGKKIKIEFYYLSQSKYYDNLFQSRQFAIWTADKGVYRLLIDQEYYHNFQPLYQKEINVIWLDFIMQIYHKEINLINRIKIIFLTAFLPLSFIIFFIISRITHKALLFIPF-IILLTIIFLINYWIKNQQKNLSSFKDQKFQTTLKEIKQFLGELFFEELLEKQKNYNPSYSQYIPNKNDQNNN</Hsp_hseq>
+      <Hsp_midline>MN+ FF++  +K+ KLLTN ++SLQG+PFL +ETTLKGK+ K+EFYYL QSKYY  LFQSRQFA+WTADKGV RLL++++YY  F   YQK+IN +WLDFI QI+ KE  LI  IK +F+   +P+    F +  +I+    L IP  ++L++  F +NYW+KNQQK L  F+D+K Q TL +I++ LG   +E L EKQK +NP+   ++  K+DQN N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|WP_212331321.1|</Hit_id>
+  <Hit_def>hypothetical protein [&apos;Fragaria x ananassa&apos; phyllody phytoplasma] &gt;gb|MBS2126368.1| hypothetical protein [&apos;Fragaria x ananassa&apos; phyllody phytoplasma]</Hit_def>
+  <Hit_accession>WP_212331321</Hit_accession>
+  <Hit_len>219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.208</Hsp_bit-score>
+      <Hsp_score>500</Hsp_score>
+      <Hsp_evalue>2.06644e-59</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>219</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>110</Hsp_identity>
+      <Hsp_positive>157</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>220</Hsp_align-len>
+      <Hsp_qseq>MNFSFFQK--EKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQIS--VWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPT---FVEPKSDQNPN</Hsp_qseq>
+      <Hsp_hseq>MNWLFFKQNEKKQLKLLTNFHHSLQGEPFLIEETTLKGEKIKIEFYYLSQSKYYDNLFQSRQFAIWTADKEVYRLLIDQEYYHNFQPLYKKEINVIWLDFIMQIYYKEINLINRIKIIFLTTFLPLSFIIFFIISKITNKTLLFIPF-IILLTIIFLINYWIKNQQKNLSSFKDQKFQTTLKEIKQFLGESFFEELLEKQKNYNPSYSQYIQNENDKNNN</Hsp_hseq>
+      <Hsp_midline>MN+ FF++  +K+ KLLTN ++SLQGEPFL +ETTLKG++ K+EFYYL QSKYY  LFQSRQFA+WTADK V RLL++++YY  F   Y+K+IN +WLDFI QI+ KE  LI  IK +F+   +P+    F +  +I+    L IP  ++L++  F +NYW+KNQQK L  F+D+K Q TL +I++ LG   +E L EKQK +NP+   +++ ++D+N N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>emb|CAM11977.1|</Hit_id>
+  <Hit_def>Conserved hypothetical protein [Candidatus Phytoplasma australiense]</Hit_def>
+  <Hit_accession>CAM11977</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>189.889</Hsp_bit-score>
+      <Hsp_score>481</Hsp_score>
+      <Hsp_evalue>2.1211e-56</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>144</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>207</Hsp_align-len>
+      <Hsp_qseq>TNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQI---SVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKN</Hsp_qseq>
+      <Hsp_hseq>TNFYHSLQGDPFLTEEIILDGDLVKIEFYYLEQSKYYNALFQSRQFAVWTANQGVCRLLVDKDYYQHFAALYQKKINIFWLEFMTKVYQKEISLINRIKIAFGLVFLPCLLVVFLTLSVFQNKNRWFLWIPLIILLIFIFMINHWIKNKQKQLAFFQDQELKKTLEKIKKDLGETFFANLIEQQKKYNPEY-KPLENEAEKDDNLKN</Hsp_hseq>
+      <Hsp_midline>TN Y+SLQG+PFLT+E  L G   K+EFYYL+QSKYY+ LFQSRQFAVWTA++GVCRLLV+K YY+ F A YQK IN  WL+F+ +++QKE +LI  IK  F  V +P LL  FL        + W      ++L+   F +N+W+KN+QK+L  F+D++L++TL+KI++ LG   + +L E+QK++NP + +P  ++   +D  KN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|WP_015637935.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma australiense] &gt;gb|AGL90375.1| hypothetical protein SLY_0455 [Strawberry lethal yellows phytoplasma (CPA) str. NZSb11]</Hit_def>
+  <Hit_accession>WP_015637935</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>189.504</Hsp_bit-score>
+      <Hsp_score>480</Hsp_score>
+      <Hsp_evalue>4.04773e-56</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>231</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>144</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>207</Hsp_align-len>
+      <Hsp_qseq>TNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQI---SVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKN</Hsp_qseq>
+      <Hsp_hseq>TNFYHSLQGDPFLTEEIILDGDLVKIEFYYLEQSKYYNALFQSRQFAVWTANQGVCRLLIDKDYYQHFAALYQKKINIFWLEFMTKVYQKEISLINRIKIAFGLVFLPCLLVVFLTLSVFQNKNRWFLWIPLIILLIFIFMINHWIKNKQKQLAFFQDQELKKTLEKIKKDLGETFFANLIEQQKKYNPEY-KPLENEAEKDDNLKN</Hsp_hseq>
+      <Hsp_midline>TN Y+SLQG+PFLT+E  L G   K+EFYYL+QSKYY+ LFQSRQFAVWTA++GVCRLL++K YY+ F A YQK IN  WL+F+ +++QKE +LI  IK  F  V +P LL  FL        + W      ++L+   F +N+W+KN+QK+L  F+D++L++TL+KI++ LG   + +L E+QK++NP + +P  ++   +D  KN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>emb|CCP88563.1|</Hit_id>
+  <Hit_def>conserved hypothetical protein, partial sequence, partial [Candidatus Phytoplasma solani]</Hit_def>
+  <Hit_accession>CCP88563</Hit_accession>
+  <Hit_len>113</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>134.806</Hsp_bit-score>
+      <Hsp_score>338</Hsp_score>
+      <Hsp_evalue>2.20358e-36</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>119</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>MNFSFF--QKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI</Hsp_qseq>
+      <Hsp_hseq>MNWSSFFPKKTKQMQLLTNFYHSLQGEPFLIEEILLNETPVKIEFYYLEQSKYYNALFQTRQFVVWTADKGTYRLLIDKDYYNNFKPLYRKEINTAWLEFMIQVYQKEANLI</Hsp_hseq>
+      <Hsp_midline>MN+S F  +K K+ +LLTN Y+SLQGEPFL +E  L     K+EFYYL+QSKYY+ LFQ+RQF VWTADKG  RLL++K YY  F   Y+K+IN  WL+F+ Q++QKEA LI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|WP_012504293.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma mali] &gt;emb|CAP18325.1| conserved hypothetical protein [Candidatus Phytoplasma mali]</Hit_def>
+  <Hit_accession>WP_012504293</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>114.005</Hsp_bit-score>
+      <Hsp_score>284</Hsp_score>
+      <Hsp_evalue>5.6314e-27</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>203</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>200</Hsp_align-len>
+      <Hsp_qseq>FQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLR----IPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNP</Hsp_qseq>
+      <Hsp_hseq>FKKNNKIKMLDIIFNSVEGEPFKIEEFENEKGKHQIEFYYIEQSKYKTPLINSRQFVVYTADKGFFRVLIDKEYYKKFKILYQKKINIIWINFMISLFEKQLQFQK--KYSFYVTISFIISVLFLIINWVLNFLEHYPFIIIILSILFPILGTIFITKKQQKYFILLKNDNLTETINQIKKIIGSKEYEEILEQQKNYQP</Hsp_hseq>
+      <Hsp_midline>F+K  + K+L  I+NS++GEPF  +E   +  + ++EFYY++QSKY + L  SRQF V+TADKG  R+L++K+YY++F   YQK IN +W++F+  +F+K+    K  K+ F   +  I+   FL+   +  +L     I   + ++       +  K QQK   + ++  L ET+++I++ +G + YE + E+QK + P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|WP_121463903.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma ziziphi] &gt;gb|AYJ01172.1| hypothetical protein CWO85_01325 [Candidatus Phytoplasma ziziphi]</Hit_def>
+  <Hit_accession>WP_121463903</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.2117</Hsp_bit-score>
+      <Hsp_score>243</Hsp_score>
+      <Hsp_evalue>6.60835e-21</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>216</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>205</Hsp_align-len>
+      <Hsp_qseq>KEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI-KTIKFLFVAVLVPILLNAFLLSGQISVW----LRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPK</Hsp_qseq>
+      <Hsp_hseq>KRSKLKLFPFIFNSISGEPFRCEIYDINGEEKKIEFFFLKQSEYNSYFLDMKQYVVWSIVDDLYRVLVDESYYSKFEILYQKEINIIYMNFLQKLLYKRYKIIRKNFLYYFLSIFFSLFLIYFFYFKEISFLKEYQYLIFFIIFILNFVFLFFYTKVKQRDFFQNYKTKLLKETMKNIKSFLGVEVFENISKQQRMFSSEFFDEK</Hsp_hseq>
+      <Hsp_midline>K  + KL   I+NS+ GEPF  +   + G+E K+EF++L QS+Y S     +Q+ VW+    + R+LV++ YY +F   YQK+IN ++++F+ ++  K   +I K   + F+++   + L  F    +IS        I   + +++  F   Y    Q+     ++ K L+ET+  I+  LG+E++E++ ++Q+ F+  F + K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>ref|WP_238055157.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma ziziphi]</Hit_def>
+  <Hit_accession>WP_238055157</Hit_accession>
+  <Hit_len>229</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.8265</Hsp_bit-score>
+      <Hsp_score>242</Hsp_score>
+      <Hsp_evalue>1.09921e-20</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>216</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>205</Hsp_align-len>
+      <Hsp_qseq>KEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI-KTIKFLFVAVLVPILLNAFLLSGQISVW----LRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPK</Hsp_qseq>
+      <Hsp_hseq>KRSKLKLFPFIFNSISGEPFRCEIYDINGEEKKIEFFFLKQSEYNSYFLDMKQYVVWSIVDDLYRVLVDESYYSKFEILYQKEINIIYMNFLQKLLYKRYKIIRKNFLYYFLSIFFSLFLIYFFYFKEISFLKEYQYLIFFIIFILNFVFLFFYTKVKQRDFFQNYKTKLLKETMKNIKSFLGVEVFENISKQQRMFSSEFFDEK</Hsp_hseq>
+      <Hsp_midline>K  + KL   I+NS+ GEPF  +   + G+E K+EF++L QS+Y S     +Q+ VW+    + R+LV++ YY +F   YQK+IN ++++F+ ++  K   +I K   + F+++   + L  F    +IS        I   + +++  F   Y    Q+     ++ K L+ET+  I+  LG+E++E++ ++Q+ F+  F + K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|WP_225696185.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma sp. AldY-WA1]</Hit_def>
+  <Hit_accession>WP_225696185</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.4413</Hsp_bit-score>
+      <Hsp_score>241</Hsp_score>
+      <Hsp_evalue>1.23019e-20</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>216</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>206</Hsp_align-len>
+      <Hsp_qseq>KEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI-KTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAF-----VVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPK</Hsp_qseq>
+      <Hsp_hseq>KRSKLKLFPFIFNSISGKPFRCETYDINGEEKKIEFFFLKQSEYNSYFLDMKQYIVWSMVDDLYRVLVDENYYSKFELLYQKEINIIYMDFLQKLLYKRFKIIRKNFLYYFLSIFFSLFLVCFFYFKKIP-FLREYRYLIFFIIFILNFVFLFFYTKIKQRDFFQNYKIKLLKETMKNIKSFLGVEVFENISKQQRMFSSEFFDEK</Hsp_hseq>
+      <Hsp_midline>K  + KL   I+NS+ G+PF  +   + G+E K+EF++L QS+Y S     +Q+ VW+    + R+LV++ YY +F   YQK+IN +++DF+ ++  K   +I K   + F+++   + L  F    +I  +LR   +     + +++  F   Y    Q+     ++ K L+ET+  I+  LG+E++E++ ++Q+ F+  F + K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|WP_178734202.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma pruni] &gt;gb|NWN45807.1| hypothetical protein [Candidatus Phytoplasma pruni]</Hit_def>
+  <Hit_accession>WP_178734202</Hit_accession>
+  <Hit_len>208</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.5893</Hsp_bit-score>
+      <Hsp_score>231</Hsp_score>
+      <Hsp_evalue>2.66067e-19</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>123</Hsp_align-len>
+      <Hsp_qseq>SFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIK----TIKFLFVAVLV</Hsp_qseq>
+      <Hsp_hseq>NLFTNKNKIQLLPFVFNSVEGNAFREENCLFKDQEKKIEFFYLKQSKYNSFFLNMNQYVVWTYLNGVFRVLIHEEYYDKFNALYQKEINSFYMNFIYELLNKRANIIKKNFLSLGIGFAASLV</Hsp_hseq>
+      <Hsp_midline>+ F  + + +LL  ++NS++G  F  +    K +E K+EF+YL QSKY S      Q+ VWT   GV R+L+ ++YY++F A YQK+IN  +++FI+++  K A +IK    ++   F A LV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|WP_017191858.1|</Hit_id>
+  <Hit_def>hypothetical protein [Poinsettia branch-inducing phytoplasma]</Hit_def>
+  <Hit_accession>WP_017191858</Hit_accession>
+  <Hit_len>208</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>9.18344e-19</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>199</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>202</Hsp_align-len>
+      <Hsp_qseq>SFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI-KTIKFLFVAVLVPILLNAFL------LSG-QISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQK</Hsp_qseq>
+      <Hsp_hseq>NLFIKKNKIQLLPFVFNSVEGNAFREENCLFNDQEKKIEFFYLKQSKYNSFFLNMNQYVVWTYLNGVFRILIHEEYYDKFNALYQKEINSFYMKFIYELLNKRANIITKNFLSLGIGFATSLVLSTLVKLSISNLNGYKVVMLFALPIILFLIIFMF----FMKKSDKKFQLDKKKLFIQFIQESENFLGKEELENILTQHR</Hsp_hseq>
+      <Hsp_midline>+ F K+ + +LL  ++NS++G  F  +      +E K+EF+YL QSKY S      Q+ VWT   GV R+L+ ++YY++F A YQK+IN  ++ FI+++  K A +I K    L +     ++L+  +      L+G ++ +   +P  + LI   F    +MK   KK  + + K   + + + +  LG E  E++  + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|WP_025725056.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acholeplasma granularum]</Hit_def>
+  <Hit_accession>WP_025725056</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.5077</Hsp_bit-score>
+      <Hsp_score>223</Hsp_score>
+      <Hsp_evalue>6.23714e-18</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>208</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>219</Hsp_align-len>
+      <Hsp_qseq>FKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCF---SMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEI</Hsp_qseq>
+      <Hsp_hseq>MKMLPKDYAKAVGTPFRVE----KYKEAKLEMYYLDDRSDYGKFAQRGRFSVWTSDGVDYRLFVDKGYYNAVPDLYKNEVNDIWLDFTNSIYAAQQKMSRSYMFISLIVLGVVLAASFLVQ---TFWEEQANNVFLISMVILFVGLFYSSSRQQKALRALVSEENQKATALIKETLGAAKFQAILDAQEAYYQEYFKTES----TDETEDNVEETSEDV</Hsp_hseq>
+      <Hsp_midline> K+L   Y    G PF  +    K KE K+E YYLD    Y    Q  +F+VWT+D    RL V+K YY      Y+ ++ND+WLDF   I+  +  + ++  F+ + VL  +L  +FL+    + W      V LIS       + Y    QQK L     ++ Q+    I+ETLG   ++++ + Q+ +   + + +S     ++T  N + T +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|WP_144658489.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma pini] &gt;gb|TVY12151.1| hypothetical protein MDPP_001548 [Candidatus Phytoplasma pini]</Hit_def>
+  <Hit_accession>WP_144658489</Hit_accession>
+  <Hit_len>209</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>7.46946e-18</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>119</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>109</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>103</Hsp_align-len>
+      <Hsp_qseq>KEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI</Hsp_qseq>
+      <Hsp_hseq>KKNKIKFLPFIFNSVEGNPFHIEKYLIQNQDYKLEFFYLKQSKYYSHFIEIKQYVIWSIFHDVCRVIIDEKYYKKFKILYQKEVNLLYMNFLYDLLNKRSEII</Hsp_hseq>
+      <Hsp_midline>K+ + K L  I+NS++G PF  ++  ++ ++ K+EF+YL QSKYYS   + +Q+ +W+    VCR+++++KYY++F   YQK++N ++++F++ +  K + +I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|WP_017193661.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vaccinium witches&apos;-broom phytoplasma]</Hit_def>
+  <Hit_accession>WP_017193661</Hit_accession>
+  <Hit_len>208</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>88.9669</Hsp_bit-score>
+      <Hsp_score>219</Hsp_score>
+      <Hsp_evalue>1.4131e-17</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>201</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>194</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>SFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI-KTIKFLFVAVLVPILLNAFL------LSG-QISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESL</Hsp_qseq>
+      <Hsp_hseq>NLFTHKNKIQLLPFVFNSVEGNAFREENCLFNDQEKKIEFFYLKQSKYNSFFLNMNQYVVWTYLNGVFRVFIHEEYYDKFNTLYQKEINSFYMKFIYELLNKRANIIKKNFLSLGIGFVTSLILSTLVKSSIPNLNGYKVVMLFALPIILFLIIFMF----FMKKSDKKFQLDKKKLFIQFIQESENFLGKEELENI</Hsp_hseq>
+      <Hsp_midline>+ F  + + +LL  ++NS++G  F  +      +E K+EF+YL QSKY S      Q+ VWT   GV R+ + ++YY++F   YQK+IN  ++ FI+++  K A +I K    L +  +  ++L+  +      L+G ++ +   +P  + LI   F    +MK   KK  + + K   + + + +  LG E  E++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|WP_017192078.1|</Hit_id>
+  <Hit_def>hypothetical protein [Milkweed yellows phytoplasma]</Hit_def>
+  <Hit_accession>WP_017192078</Hit_accession>
+  <Hit_len>208</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>88.9669</Hsp_bit-score>
+      <Hsp_score>219</Hsp_score>
+      <Hsp_evalue>1.70567e-17</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>201</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>194</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>SFFQKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI-KTIKFLFVAVLVPILLNAFL------LSG-QISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESL</Hsp_qseq>
+      <Hsp_hseq>NLFTHKNKIQLLPFVFNSVEGNAFREENCLFNDQEKKIEFFYLKQSKYNSFFLNMNQYVVWTYLNGVFRVFINEEYYDKFNTLYQKEINSFYMKFIYELLNKRANIIKKNFLSLGIGFVTSLILSTLVKSSIPNLNGYKVVMLFALPIILFLIIFMF----FMKKSDKKFQLDKKKLFIQFIQESENFLGKEELENI</Hsp_hseq>
+      <Hsp_midline>+ F  + + +LL  ++NS++G  F  +      +E K+EF+YL QSKY S      Q+ VWT   GV R+ + ++YY++F   YQK+IN  ++ FI+++  K A +I K    L +  +  ++L+  +      L+G ++ +   +P  + LI   F    +MK   KK  + + K   + + + +  LG E  E++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|WP_205735419.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acholeplasma equirhinis] &gt;gb|MBN3491100.1| hypothetical protein [Acholeplasma equirhinis]</Hit_def>
+  <Hit_accession>WP_205735419</Hit_accession>
+  <Hit_len>216</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.7297</Hsp_bit-score>
+      <Hsp_score>208</Hsp_score>
+      <Hsp_evalue>6.518e-16</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>215</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>191</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVW---LRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEP</Hsp_qseq>
+      <Hsp_hseq>KMLPKDYNKAVGEPFRVEDY----RGAKLEMYYLDDRPDYAVFARRGRFSVWTSDGVNYRLFVDKGYYEAVKGLYQNEVNDIWLDFTNKIYGAQKKLSNFYMLINAGLFVLLMILAYVLQALVPDMVNDLFLYSTIVLFIAIFATG---SLQQKKLKKLVEEENRTATNLIRQTIGENAFQEILDGQEAYYKQYFQP</Hsp_hseq>
+      <Hsp_midline>K+L   YN   GEPF  ++     +  K+E YYLD    Y+   +  +F+VWT+D    RL V+K YYE     YQ ++ND+WLDF  +I+  +  L      +   + V +++ A++L   +      L + + +VL  + F+       QQKKL    +++ +   + I++T+G   ++ + + Q+ +   + +P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>tpg|HHY96651.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acholeplasma sp.]</Hit_def>
+  <Hit_accession>HHY96651</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.7297</Hsp_bit-score>
+      <Hsp_score>208</Hsp_score>
+      <Hsp_evalue>7.63531e-16</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>208</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>184</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTI----KFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQF</Hsp_qseq>
+      <Hsp_hseq>KILPKDYDKAQGTPFRVED--YRGK--KLEFYYLDDRADYRKFAQRGRFSVWTSNGEDFRLFVDKGYYEAVKELYENEINTIWLDFTLSIYGEQKKMSKKYLTFSMIMFVSVLILMIVGQMLFSEYVQP-ISIGALVVMLIGLFVSS---NKQQRELRDYVQGENTKASQMIKDHLGVEKFEEVLKNQELY</Hsp_hseq>
+      <Hsp_midline>K+L   Y+  QG PF  ++   +GK  K+EFYYLD    Y    Q  +F+VWT++    RL V+K YYE     Y+ +IN +WLDF   I+ ++  + K        +FV+VL+ +++   L S  +   + I A VV++   F  +     QQ++L  +   +  +    I++ LG+E +E + + Q+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|WP_026390734.1|</Hit_id>
+  <Hit_def>hypothetical protein [Haploplasma axanthum] &gt;emb|VEU79651.1| Uncharacterised protein [Haploplasma axanthum]</Hit_def>
+  <Hit_accession>WP_026390734</Hit_accession>
+  <Hit_len>219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.3445</Hsp_bit-score>
+      <Hsp_score>207</Hsp_score>
+      <Hsp_evalue>1.02502e-15</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>105</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>200</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAV-LVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQN</Hsp_qseq>
+      <Hsp_hseq>KISYKVYRSLTGEPFETQE--LSGK--KVEFFYMNDTPYLSQYVSRGRFYIWTSDGNNYRLLVEKGFYEKVSYFFTSEVNGIWIDFLDEVGSINSRMSKMFLLISMSISLVVLLVFGIWFKEQLTTGVIVALFGVLILN-------MVHTSRINKLIRQKNLAAQ-TKIREVLTEEKFNQLLKDQEEYYKEYFKFEEDEN</Hsp_hseq>
+      <Hsp_midline>K+   +Y SL GEPF TQE  L GK  KVEF+Y++ + Y S      +F +WT+D    RLLVEK +YE+   F+  ++N +W+DF+ ++    + + K    + +++ LV +L+       Q++  + +  F VLI +       M +  +   + R K L     KI+E L  E +  L + Q+++   + + + D+N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|WP_030003822.1|</Hit_id>
+  <Hit_def>hypothetical protein [Alteracholeplasma palmae] &gt;emb|CCV64939.1| conserved hypothetical protein [Alteracholeplasma palmae J233]</Hit_def>
+  <Hit_accession>WP_030003822</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.3445</Hsp_bit-score>
+      <Hsp_score>207</Hsp_score>
+      <Hsp_evalue>1.2358e-15</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>208</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>183</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>FKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIK-FLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCF-SMNYWMKNQQKKLHI-FRDKKLQETLDKIQETLGIELYESLKEKQKQF</Hsp_qseq>
+      <Hsp_hseq>MKLLPKIYKGITGEPFRVENY----KGNKIEFHYLDETPFLARYASKGKFAVWTSNGIDYKLLIEKGYYETVEDLYSNEVNEIWLDFMTFAYGIQAKVTKKYNLFLLIAVLVA--LGATILLSQV-INNDMIAFSIGMAILFVPMLLATRKQQKEIGTAIREENVNST-QKIKDVLGEKRFEDLLTAQQAY</Hsp_hseq>
+      <Hsp_midline> KLL  IY  + GEPF  +      K  K+EF+YLD++ + +      +FAVWT++    +LL+EK YYE     Y  ++N++WLDF+   +  +A + K    FL +AVLV   L A +L  Q+ +   + AF + ++  F  M    + QQK++    R++ +  T  KI++ LG + +E L   Q+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gb|RJX25142.1|</Hit_id>
+  <Hit_def>hypothetical protein C4537_05070 [Acholeplasma sp.]</Hit_def>
+  <Hit_accession>RJX25142</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.5741</Hsp_bit-score>
+      <Hsp_score>205</Hsp_score>
+      <Hsp_evalue>2.68352e-15</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>234</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>202</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>217</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQ--KEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFS--MNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTID</Hsp_qseq>
+      <Hsp_hseq>KLNGKIYQQLTGEPFVSQE--IDGK--KIDFHYMNDTPYLFQYASKGRFAVWTSDGQNYRVLIEKTYYEALEDFYQEDVNRIWLNFLDKVGKTSKKFNLLFNIPALVLYLIVSILAVYVFQDYTMQILLGMIVLVVIVNMVQGRIVNSKVREENKNAQ-----------DEIRNLIGNERFDELVKAQEDHYQNYFKF-NEENPIDDTQTTNAEQID</Hsp_hseq>
+      <Hsp_midline>KL   IY  L GEPF++QE  + GK  K++F+Y++ + Y        +FAVWT+D    R+L+EK YYE    FYQ+D+N +WL+F+ ++ +  K+  L+  I  L + ++V IL         + + L +   VV+++      +N  ++ + K              D+I+  +G E ++ L + Q+     + +  +++NP +DT       ID</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|WP_066539931.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma oryzae] &gt;gb|KXT29453.1| hypothetical protein AXA84_0098 [Candidatus Phytoplasma oryzae] &gt;gb|RAM58032.1| hypothetical protein DH96_00560 [Candidatus Phytoplasma oryzae]</Hit_def>
+  <Hit_accession>WP_066539931</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>82.0333</Hsp_bit-score>
+      <Hsp_score>201</Hsp_score>
+      <Hsp_evalue>5.80601e-15</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKF----------LFVAVLVPILLN</Hsp_qseq>
+      <Hsp_hseq>QLFPFIFKNIQGDSFKQEEFFLNQQKKRIEFFFLHQSKYNNYFLEMNQFVIWTIEGDICRVLIEKDYYNQFKELYQKEINIFYANFLYSLLEKRRDLI-YIDFLLIFNFICFTLFFALMIKIFIN</Hsp_hseq>
+      <Hsp_midline>+L   I+ ++QG+ F  +E  L  ++ ++EF++L QSKY +   +  QF +WT +  +CR+L+EK YY +F   YQK+IN  + +F++ + +K   LI  I F          LF A+++ I +N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|WP_045749868.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acholeplasma oculi] &gt;emb|CDR31455.1| hypothetical protein Aocu_13820 [Acholeplasma oculi] &gt;emb|SKC48884.1| hypothetical protein SAMN02745122_1359 [Acholeplasma oculi] &gt;emb|SUT92107.1| Uncharacterised protein [Acholeplasma oculi]</Hit_def>
+  <Hit_accession>WP_045749868</Hit_accession>
+  <Hit_len>220</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>82.4185</Hsp_bit-score>
+      <Hsp_score>202</Hsp_score>
+      <Hsp_evalue>5.82145e-15</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>101</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>202</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSG---QISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQN</Hsp_qseq>
+      <Hsp_hseq>KMLPKEYAKAVGEPFRVEDY----KGAKLEMFYLDDRSDYGKFASRGRFSVWTSDGVNYRLFVDKGYYQAVSGLYINEVNDIWLDFTNSIYAEQQKMSKKYMFISFAVLAIVLIASYVIQALFPEQANNVFLASMVVLFIGLF---YSSGQQQKRLKAYVNEENQKATALIKDVVGEAGFKEILANQEAYYQAYFKTETDSS</Hsp_hseq>
+      <Hsp_midline>K+L   Y    GEPF  ++     K  K+E +YLD    Y       +F+VWT+D    RL V+K YY+     Y  ++ND+WLDF   I+ ++  + K   F+  AVL  +L+ ++++     + +  + + + VVL    F   Y    QQK+L  + +++ Q+    I++ +G   ++ +   Q+ +   + + ++D +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gb|PQP79430.1|</Hit_id>
+  <Hit_def>hypothetical protein C6B37_01850, partial [Candidatus Phytoplasma phoenicium]</Hit_def>
+  <Hit_accession>PQP79430</Hit_accession>
+  <Hit_len>194</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.2629</Hsp_bit-score>
+      <Hsp_score>199</Hsp_score>
+      <Hsp_evalue>8.66329e-15</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>111</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>110</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>QKEKEFKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQI</Hsp_qseq>
+      <Hsp_hseq>RRKNKIEILPIVFDSSEGRPFRKEKYIVQQQEKKIEFFYLTQSNYYLNFMQIKQYVVWTLKNDVCRVFITEDFYKKFELFYQKEINTIYLSFLYDI</Hsp_hseq>
+      <Hsp_midline>+++ + ++L  +++S +G PF  ++  ++ +E K+EF+YL QS YY    Q +Q+ VWT    VCR+ + + +Y++F  FYQK+IN ++L F++ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|WP_152309745.1|</Hit_id>
+  <Hit_def>hypothetical protein [&apos;Cynodon dactylon&apos; phytoplasma] &gt;gb|KAB8122101.1| hypothetical protein F1741_01000 [&apos;Cynodon dactylon&apos; phytoplasma]</Hit_def>
+  <Hit_accession>WP_152309745</Hit_accession>
+  <Hit_len>204</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.2629</Hsp_bit-score>
+      <Hsp_score>199</Hsp_score>
+      <Hsp_evalue>1.17772e-14</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>119</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>LLTNIYNSLQGE--PFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLI</Hsp_qseq>
+      <Hsp_hseq>LFSSIFDGILKDEKPFIENEFFLDGKKIKIEFFYLCQNKYNSYCLEIKQYIVWTIKDNICRVFIDKNYYCDFKEFYQIKVNIIYVDFLYKILEKRRYLI</Hsp_hseq>
+      <Hsp_midline>L ++I++ +  +  PF+  E  L GK+ K+EF+YL Q+KY S   + +Q+ VWT    +CR+ ++K YY +F  FYQ  +N +++DF+++I +K   LI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|WP_210954649.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma luffae] &gt;gb|QTX03226.1| hypothetical protein LFWB_6650 [Candidatus Phytoplasma luffae]</Hit_def>
+  <Hit_accession>WP_210954649</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>2.0711e-14</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>202</Hsp_align-len>
+      <Hsp_qseq>LLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIK---TIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNY--WMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQ</Hsp_qseq>
+      <Hsp_hseq>LFPFIFNSCEGLPFRTETYNINEEEKKIEFFNLEQSKYNEHFLNMQQYVIWSSLNNCYRVFIDEHYYKEFSSLYQKEINIMYIDFLEKILIKNSEIFKKKIFNLFLLIFLFLPI--GVFLLKKNYSSDFCIMSVYLLFLSLFSFLFVSRTKKQQNFLKQYKKLLFEKMITKVKSFLGLEFFEEILKKQKEY-PSKVNIKKEE</Hsp_hseq>
+      <Hsp_midline>L   I+NS +G PF T+   +  +E K+EF+ L+QSKY       +Q+ +W++     R+ +++ YY+EF + YQK+IN M++DF+ +I  K + + K      FL + + +PI    FLL    S    I +  +L  S FS  +    K QQ  L  ++    ++ + K++  LG+E +E + +KQK++ P+ V  K ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gb|NLK13043.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma sp.]</Hit_def>
+  <Hit_accession>NLK13043</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.411</Hsp_bit-score>
+      <Hsp_score>189</Hsp_score>
+      <Hsp_evalue>2.17214e-14</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>118</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>94</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATL</Hsp_qseq>
+      <Hsp_hseq>KLLPKVYKGIKGEPFRTEDYN----GAKIEMYYLDETPFLARFASKGKFAVWTSDGENYRLLIEKGYYEALPDLYQPAINVIWLDFMTFAYQTQSKL</Hsp_hseq>
+      <Hsp_midline>KLL  +Y  ++GEPF T++        K+E YYLD++ + +      +FAVWT+D    RLL+EK YYE     YQ  IN +WLDF+   +Q ++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>tpg|HBD74714.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acholeplasmataceae bacterium]</Hit_def>
+  <Hit_accession>HBD74714</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.4925</Hsp_bit-score>
+      <Hsp_score>197</Hsp_score>
+      <Hsp_evalue>2.75993e-14</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>224</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>194</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>212</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETL--------DKIQETLGIELYESLKEKQKQFNPTFVE-PKSDQNPNED</Hsp_qseq>
+      <Hsp_hseq>KLNPRVFRKITTQPFETQ--TLGSR--TVEFHAMNDSLFFDTYGKRGRFAVWTAEQNTYRVLIETSYYEAMKDFYQENINTIWIDFLERVTQKN----KRINLMFI---IPLMVTYLLAAIISSLYFPNEVFTVLLGILVIV--FISN------IFQNRLIRKTVQDENIATQNLIRQTMGESKFNKLVEAQEAHYKAFFQVPEDTVEPQED</Hsp_hseq>
+      <Hsp_midline>KL   ++  +  +PF TQ  TL  +   VEF+ ++ S ++ T  +  +FAVWTA++   R+L+E  YYE    FYQ++IN +W+DF+ ++ QK     K I  +F+   +P+++   L +   S++     F VL+     +  ++ N      IF+++ +++T+        + I++T+G   +  L E Q+     F + P+    P ED</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gb|MBN2300850.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acholeplasmataceae bacterium]</Hit_def>
+  <Hit_accession>MBN2300850</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.1073</Hsp_bit-score>
+      <Hsp_score>196</Hsp_score>
+      <Hsp_evalue>4.27228e-14</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>205</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLR------IPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKDNTIDEI</Hsp_qseq>
+      <Hsp_hseq>KLNFKVYKQLINEPFLTQE--IDGK--IIEFHYMNDTPFLYQYASRGRFAIWTSDATNYRVLIEKKYYEALEDFYQPEVNKIWLEFLEGV----SGLSKKINTWFI---IPTLILYVVIAGLATYLFKDYTLQILLGMIVLVVVSNMFQGRLVNKK-----VREENLKAQ-DKIRNSIGNERFESLIKAQEDHYQEYFKFQEEVQDQEQTDQLENETIDDV</Hsp_hseq>
+      <Hsp_midline>KL   +Y  L  EPFLTQE  + GK   +EF+Y++ + +        +FA+WT+D    R+L+EKKYYE    FYQ ++N +WL+F+  +    + L K I   F+   +P L+   +++G  +   +      +   +VL+         + N++      R++ L+   DKI+ ++G E +ESL + Q+     + + + +    E T + ++ TID++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gb|NLK12595.1|</Hit_id>
+  <Hit_def>hypothetical protein [Candidatus Phytoplasma sp.]</Hit_def>
+  <Hit_accession>NLK12595</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.1073</Hsp_bit-score>
+      <Hsp_score>196</Hsp_score>
+      <Hsp_evalue>4.7966e-14</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>230</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>101</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>202</Hsp_align-len>
+      <Hsp_qseq>SLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTIKFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNY-WMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQKQFNPTFVEPKSDQNPNEDTHKNKD</Hsp_qseq>
+      <Hsp_hseq>GIEGEPFRTEDY----NGAKIEMYYLDETPFLARFASKGKFAVWTSNGENYRLLIEKGYYETLPDLYQPAINVIWLDFMTFAYQTQSKLSRKYS-LFTLLTFAISLAAVLLIGQFAD--DTVGLVVGIGILFIGLYTFSRKQQKELQTHIQSENVIATQKIKDIIGEKEFENLLNDQQAYYEKYFAFEDDEVLEDEQTENEE</Hsp_hseq>
+      <Hsp_midline> ++GEPF T++        K+E YYLD++ + +      +FAVWT++    RLL+EK YYE     YQ  IN +WLDF+   +Q ++ L +    LF  +   I L A LL GQ +        VV I   F   Y + + QQK+L      +      KI++ +G + +E+L   Q+ +   +   + D+   ++  +N++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gb|TVP86190.1|</Hit_id>
+  <Hit_def>hypothetical protein EA375_01760 [Acholeplasmataceae bacterium]</Hit_def>
+  <Hit_accession>TVP86190</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.7221</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>6.00294e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>144</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>FKLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQ--KEATLIKTIKFLFVAVLVPILLNAFLLSGQI</Hsp_qseq>
+      <Hsp_hseq>MKLNAKVYKNLTGEPFETQ--VINGKQ--VEFHYMDDTPYLVTYASRGRFAIWASDGVNYKVLIESKYHQAMKDFYQENVNVIWLDFLERIGQISRKVNLMFIVPTLLLYIVVAIVA-SILFEGQM</Hsp_hseq>
+      <Hsp_midline> KL   +Y +L GEPF TQ   + GK+  VEF+Y+D + Y  T     +FA+W +D    ++L+E KY++    FYQ+++N +WLDF+ +I Q  ++  L+  +  L + ++V I+  + L  GQ+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|WP_026400090.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acholeplasma equifetale]</Hit_def>
+  <Hit_accession>WP_026400090</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.337</Hsp_bit-score>
+      <Hsp_score>194</Hsp_score>
+      <Hsp_evalue>9.16648e-14</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>189</Hsp_align-len>
+      <Hsp_qseq>KLLTNIYNSLQGEPFLTQETTLKGKETKVEFYYLDQSKYYSTLFQSRQFAVWTADKGVCRLLVEKKYYEEFGAFYQKDINDMWLDFIWQIFQKEATLIKTI----KFLFVAVLVPILLNAFLLSGQISVWLRIPAFVVLISSCFSMNYWMKNQQKKLHIFRDKKLQETLDKIQETLGIELYESLKEKQK</Hsp_qseq>
+      <Hsp_hseq>KILPKDYDKAQGTPFRVED--YRGK--KLEFYYLDDRADYAKFAQRGRFSVWTSNGEDFRLFVDKGYYEAVKELYENEINTIWLDFTLSIYGEQKKMSKKYLTFSMIMFVSLFILMFVAQMLFSEYVQP-ISIGTLVVMLIGLFVSS---NKQQRELRDYVQGENTKASQMIKDHLGVEKFEEVLKNQE</Hsp_hseq>
+      <Hsp_midline>K+L   Y+  QG PF  ++   +GK  K+EFYYLD    Y+   Q  +F+VWT++    RL V+K YYE     Y+ +IN +WLDF   I+ ++  + K        +FV++ + + +   L S  +   + I   VV++   F  +     QQ++L  +   +  +    I++ LG+E +E + + Q+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>461165399</Statistics_db-num>
+      <Statistics_db-len>410489392</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
